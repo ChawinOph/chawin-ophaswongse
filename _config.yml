@@ -23,13 +23,13 @@ repository               : "chawinoph/chawin-ophaswongse"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chawin Ophaswongse, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "NY, USA / Bangkok, Thailand"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "co2393@columbia.edu" 
 
   # Academic websites
   academia         : # URL
