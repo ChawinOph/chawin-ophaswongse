@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Columbia University, 2021
+* M.S. in Mechanical Engineering, Columbia University, 2018
+* B.E. in Mechanical Engineering, Chulalongkorn University 2015
 
 Work experience
 ======
