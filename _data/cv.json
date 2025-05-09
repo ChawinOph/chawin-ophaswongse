@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Chawin Ophaswongse, Ph.D.",
+    "email": "co2393@columbia.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://chawinoph.github.io/chawin-ophaswongse",
+    "summary": "Currently employed at Columbia University. Rehabilitation Robotics",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "NY, USA / Bangkok, Thailand",
       "countryCode": "US",
       "region": ""
     },
@@ -16,28 +16,28 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=yRCm1skAAAAJ&hl=en&authuser=1"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-5389-8577"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "chawinoph",
+        "url": "https://github.com/chawinoph"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Columbia University",
+      "area": "Ph.D in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
