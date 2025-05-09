@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Chawin Ophaswongse",
+    "email": "co2393@columbia.edu",
+    "phone": "+1-917-545-6946",
+    "website": "https://chawinoph.github.io",
+    "summary": "Postdoctoral Fellow at the Robotics and Rehabilitation (RoAR) Lab, Columbia University. My research focuses on robotic assistance for seated postural control and neuromotor rehabilitation.",
+    "location": {
+      "address": "121 34th Street, Apartment 302",
+      "postalCode": "07087",
+      "city": "Union City",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=yRCm1skAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "chawin-ophaswongse",
+        "url": "https://linkedin.com/in/chawin-ophaswongse"
+      },
+      {
+        "network": "GitHub",
+        "username": "ChawinOph",
+        "url": "https://github.com/ChawinOph"
+      }
+    ]
+  },
+  "work": [
+    {
+      "position": "Postdoctoral Fellow",
+      "company": "Robotics and Rehabilitation (RoAR) Lab, Columbia University",
+      "startDate": "2021-10",
+      "summary": "Developing robotic torso exoskeletons and VR-based rehabilitation systems to improve seated postural coordination in individuals with spinal cord injuries.",
+      "location": "New York, NY, USA"
+    },
+    {
+      "position": "Graduate Researcher",
+      "company": "RoAR Lab, Columbia University",
+      "startDate": "2016-07",
+      "endDate": "2021-10",
+      "summary": "Invented and evaluated robotic mechanisms for wheelchair users with trunk impairments.",
+      "location": "New York, NY, USA"
+    },
+    {
+      "position": "Research Assistant",
+      "company": "Regional Center of Robotics Technologies, Chulalongkorn University",
+      "startDate": "2015-08",
+      "endDate": "2016-06",
+      "summary": "Designed upper-limb rehabilitation robots for stroke patients.",
+      "location": "Bangkok, Thailand"
+    },
+    {
+      "position": "Research Assistant",
+      "company": "Center of Excellence for Prosthetic and Orthopedic Implant, Chulalongkorn University",
+      "startDate": "2014-06",
+      "endDate": "2015-07",
+      "summary": "Developed hydraulic knee prostheses using accessible components for cost-effective rehabilitation.",
+      "location": "Bangkok, Thailand"
+    },
+    {
+      "position": "Mechanical Engineering Intern",
+      "company": "Triumph Aviation Services - Asia, Ltd. (TASA)",
+      "startDate": "2014-03",
+      "endDate": "2014-05",
+      "summary": "Established 3D component models for aviation maintenance using reverse engineering techniques.",
+      "location": "Chonburi, Thailand"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "area": "Ph.D. in Mechanical Engineering",
+      "studyType": "Doctorate",
+      "startDate": "2018-01",
+      "endDate": "2021-10"
+    },
+    {
+      "institution": "Columbia University",
+      "area": "M.S. in Mechanical Engineering (Robotics and Control)",
+      "studyType": "Master's",
+      "startDate": "2016-08",
+      "endDate": "2017-12"
+    },
+    {
+      "institution": "Chulalongkorn University",
+      "area": "B.E. in Mechanical Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2011-05",
+      "endDate": "2015-07"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
