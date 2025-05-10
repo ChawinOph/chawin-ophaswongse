@@ -1,6 +1,13 @@
 ---
+layout: archive
+title: "Welcome to My Site"
+header:
+  overlay_image: /images/portfolio_header_wraps.png
+  overlay_filter: "0.5"
+  overlay_text_color: "#fff"
+  caption: "Photo credit: Unsplash"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
