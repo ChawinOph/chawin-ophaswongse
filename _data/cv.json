@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "Columbia University",
-      "area": "Ph.D in Mechanical Engineering",
+      "area": "Ph.D. in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2021",
@@ -42,20 +42,20 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Columbia University",
+      "area": "M.S. in Mechanical Engineering: Robotics and Control",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Chulalongkorn University",
+      "area": "B.E. in Mechanical Engineering (1st Class Honors)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }

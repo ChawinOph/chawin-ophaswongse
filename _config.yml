@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My Research Portfolio"
+title                    : "My Portfolio"
 title_separator          : "-"
 name                     : &name "Chawin Ophaswongse"
 description              : &description "personal description"
